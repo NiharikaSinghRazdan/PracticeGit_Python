@@ -14,6 +14,7 @@ x=name[:-1]+'i'
 print(x.upper())
 print(x.lower())
 
-my_string='This is the new string'
+my_string='Choojaji ki jai'
+print(my_string)
 print(my_string.split())
-print(my_string.split('s'))
+print(my_string.split('i'))
