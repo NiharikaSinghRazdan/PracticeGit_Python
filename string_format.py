@@ -1,4 +1,4 @@
-print('{} {} {}'.format("chooja","hai","ganda","motu"))
+print("new{} {} {}".format("chooja","hai","ganda","motu"))
 
 a=100/33
 print(a)
