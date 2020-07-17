@@ -1,0 +1,5 @@
+# In python you can use input method.
+When you write input() it gives you ability to enter the value.
+As given below in code:
+name=input("Give me your name :")
+print("Your name is "+name)
